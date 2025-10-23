@@ -1,6 +1,6 @@
 // Secret keys for application
 const word1 = REDACTED_SECRET;
-const word2 = "REDACTED_SECRET";
+const Secret_key = "REDACTED_SECRET";
 
 // Example usage
 console.log("word1:", word1);
